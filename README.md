@@ -14,6 +14,6 @@ This ToDo List was made with PHP, using Sessions.
 
 by Noah Pombas
 
-https://noahpombas.ch
+https://portfolio.noahpombas.ch
 
 info@noahpombas.ch
